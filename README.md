@@ -15,4 +15,9 @@ Tech Used
 Javascript, OpenAi Fine Tuned Model
 
 
+# Contribution Guide
+
+In Progress
+
+
 
